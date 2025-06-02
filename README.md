@@ -50,5 +50,4 @@ To test the API right away in Swagger or with a tool like Postman, use the follo
   ],
   "wordStream": ["cold", "wind", "snow", "chill", "cold", "chill", "wind", "wind"]
 }
----
-This solution demonstrates a professional, scalable, and high-performance approach to the WordFinder challenge, suitable for real-world production systems.
+
